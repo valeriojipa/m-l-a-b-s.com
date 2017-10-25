@@ -2,21 +2,69 @@
 Desenvolvido Por: mLabs
 -->
 <?php
-$url = "http://m-l-a-b-s.com/";
-$title = "mLabs";
+$url = "https://giphy.com/";
+$title = "Meu GIF";
 
 $var = array(
         "1" => array(
-                  "titulo" => "mLabs",
-                  "image" => "http://gph.is/2m6xCjt"
+                  "titulo" => "Meu GIF",
+                  "image" => "https://media.giphy.com/media/3o6oziEt5VUgsuunxS/giphy.gif"
                   ),
         "2" => array(
-                  "titulo" => "mLabs",
-                  "image" => "http://gph.is/1pptU1s"
+                  "titulo" => "Meu GIF",
+                  "image" => "https://media.giphy.com/media/liFaAWEOa1uKc/giphy.gif"
                   ),
         "3" => array(
-                  "titulo" => "mLabs",
-                  "image" => "http://gph.is/NYwUyC"
+                  "titulo" => "Meu GIF",
+                  "image" => "https://media.giphy.com/media/3rgXBQIDHkFNniTNRu/giphy.gif"
+                  ),
+        "4" => array(
+                  "titulo" => "Meu GIF",
+                  "image" => "https://media.giphy.com/media/FBzqZGthkW6KQ/giphy.gif"
+                  ),
+        "5" => array(
+                  "titulo" => "Meu GIF",
+                  "image" => "https://media.giphy.com/media/6fScAIQR0P0xW/giphy.gif"
+                  ),
+        "6" => array(
+                  "titulo" => "Meu GIF",
+                  "image" => "https://media.giphy.com/media/xWazTCAcI7m2A/giphy.gif"
+                  ),
+        "7" => array(
+                  "titulo" => "Meu GIF",
+                  "image" => "https://media.giphy.com/media/YbniyzLEgaJGM/giphy.gif"
+                  ),
+        "8" => array(
+                  "titulo" => "Meu GIF",
+                  "image" => "https://media.giphy.com/media/X2UscFgwkKDS/giphy.gif"
+                  ),
+        "9" => array(
+                  "titulo" => "Meu GIF",
+                  "image" => "https://media.giphy.com/media/l41Yy2XyXWlSvupl6/giphy.gif"
+                  ),
+        "10" => array(
+                  "titulo" => "Meu GIF",
+                  "image" => "https://media.giphy.com/media/XwkwBaI8apFew/giphy.gif"
+                  ),
+        "11" => array(
+                  "titulo" => "Meu GIF",
+                  "image" => "https://media.giphy.com/media/OVmZZjfEMFFe0/giphy.gif"
+                  ),
+        "12" => array(
+                  "titulo" => "Meu GIF",
+                  "image" => "https://media.giphy.com/media/zsLloEs8InxD2/giphy.gif"
+                  ),
+        "13" => array(
+                  "titulo" => "Meu GIF",
+                  "image" => "https://media.giphy.com/media/6QWuDqkrCVNBe/giphy.gif"
+                  ),
+        "14" => array(
+                  "titulo" => "Meu GIF",
+                  "image" => "https://media.giphy.com/media/Mh69NgKRcvbpu/giphy.gif"
+                  ),
+        "15" => array(
+                  "titulo" => "Meu GIF",
+                  "image" => "https://media.giphy.com/media/NGVKiuxWcBDwc/giphy.gif"
                   ),
         );
 
@@ -35,6 +83,6 @@ $section = array_rand($var);
 
 <script>
   setTimeout(function(){
-    window.location='https://www.mlabs.com.br/';
+    window.location='https://giphy.com/';
   },100);
 </script>
